@@ -3,3 +3,5 @@ Doremon :- ai2.appinventor.mit.edu/?galleryId=6112116932214784
 Chess :- ai2.appinventor.mit.edu/?galleryId=6399728648585216
 Space :- ai2.appinventor.mit.edu/?galleryId=5286841630195712
 Avengers :- ai2.appinventor.mit.edu/?galleryId=5332079358902272
+Car Racing :- ai2.appinventor.mit.edu/?galleryId=5622064028975104
+Math Racing :- ai2.appinventor.mit.edu/?galleryId=6614818937372672
