@@ -6,3 +6,5 @@ Avengers :- ai2.appinventor.mit.edu/?galleryId=5332079358902272
 Car Racing :- ai2.appinventor.mit.edu/?galleryId=5622064028975104
 Math Racing :- ai2.appinventor.mit.edu/?galleryId=6614818937372672
 Minecraft Fatcs :- ai2.appinventor.mit.edu/?galleryId=5493167234875392
+Badminton:- ai2.appinventor.mit.edu/?galleryId=6155116651610112
+Shinchan:- ai2.appinventor.mit.edu/?galleryId=6696419093774336
